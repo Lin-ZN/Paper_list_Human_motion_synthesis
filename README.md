@@ -1,4 +1,3 @@
-# Paper_list_Human_motion_synthesis
 # Paper list: human motion synthesis
 
 #### ✅ Introduction：
