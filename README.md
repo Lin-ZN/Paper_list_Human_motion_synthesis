@@ -13,7 +13,7 @@ Recent paper about human motion synthesis. Welcome to comment/contribute!
 
 1. ⭐ (arXiv 2023.3) _[Concept-driven]_ Task-Oriented Human-Object Interactions Generation with Implicit Neural Representations, [[Paper]](https://arxiv.org/pdf/2303.13129.pdf)
 
-1. ⭐ (CVPR' 23) FLEX: Full-Body Grasping Without Full-Body Grasps, [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Tendulkar_FLEX_Full-Body_Grasping_Without_Full-Body_Grasps_CVPR_2023_paper.pdf), [[Project]](flex.cs.columbia.edu)
+1. ⭐ (CVPR' 23) FLEX: Full-Body Grasping Without Full-Body Grasps, [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Tendulkar_FLEX_Full-Body_Grasping_Without_Full-Body_Grasps_CVPR_2023_paper.pdf), [[Project]](https://flex.cs.columbia.edu)
 
 1. ⭐ (EUROGRAPHICS' 2023) _[Concept-driven]_ IMoS: Intent-Driven Full-Body Motion Synthesis for Human-Object Interactions, [[Paper]](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.14739), [[Project]](https://vcai.mpi-inf.mpg.de/projects/IMoS/)
 
